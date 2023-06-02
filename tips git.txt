@@ -7,3 +7,7 @@ creer un token :
 -creer une note (mdp)
 -tout cocher 
 -creer token
+
+
+cloner le projet d'un autre:
+-git clone urlDuRepo
