@@ -1,0 +1,9 @@
+creer un token : 
+-settings
+-developper settings
+-personal access token
+-classic
+-generate new token (classic)
+-creer une note (mdp)
+-tout cocher 
+-creer token
